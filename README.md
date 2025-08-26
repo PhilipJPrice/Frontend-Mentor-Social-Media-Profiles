@@ -13,7 +13,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 ### Links
 
 - [Solution URL]()
-- [Live Site URL](https://philipjprice.github.io/)
+- [Live Site URL]()
 
 ## My Process
 
