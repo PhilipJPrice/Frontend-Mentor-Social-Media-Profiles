@@ -1,4 +1,5 @@
 # Frontend-Mentor-Social-Media-Profiles
+<img width="414" height="568" alt="social-media-profiles" src="https://github.com/user-attachments/assets/2aa470ef-c661-49f8-ac53-c199f2e59f20" />
 
 ## Overview
 
