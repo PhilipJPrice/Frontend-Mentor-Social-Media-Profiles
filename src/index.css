@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+body {
+	background-color: #141414;
+}
+
+.banner {
+	background-color: #1F1F1F;
+}
+
+.button {
+	background-color: #333333;
+}
+
+.button:hover {
+	background-color: #BAF451;
+}
+
+
+.text {
+	color: #F7D050;
+}
+
+.attribution { 
+	font-size: 11px; 
+	text-align: center;
+}
+
+.attribution a { 
+	color: hsl(228, 45%, 44%); 
+}
+
+@font-face {
+	font-family: 'Inter';
+	src: url('./assets/fonts/Inter-VariableFont_slnt,wght.ttf');
+}
+
+.inter-full {
+	font-family: 'Inter', sans-serif;
+}
+
+@font-face {
+	font-family: 'Inter-Regular';
+	src: url('./assets/fonts/static/Inter-Regular.ttf');
+}
+
+.inter {
+	font-family: 'Inter-Regular', sans-serif;
+}
+
+@font-face {
+	font-family: 'Inter-SemiBold';
+	src: url('./assets/fonts/static/Inter-SemiBold.ttf');
+}
+
+.inter-semi {
+	font-family: 'Inter-SemiBold', sans-serif;
+}
+
+@font-face {
+	font-family: 'Inter-Bold';
+	src: url('./assets/fonts/static/Inter-Bold.ttf');
+}
+
+.inter-bold {
+	font-family: 'Inter-Bold', sans-serif;
+}
