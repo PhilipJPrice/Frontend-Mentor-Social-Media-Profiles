@@ -13,8 +13,8 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/social-media-profiles-with-react-and-tailwind-aCLu-wgF-6)
+- [Live Site URL](https://philipjprice.github.io/Frontend-Mentor-Social-Media-Profiles/)
 
 ## My Process
 
